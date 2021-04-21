@@ -1,5 +1,6 @@
 body{
 	margin: 0;
+	font-family: Arial, sans-serif;
 }
 header{
 	height: 150px;
@@ -8,6 +9,18 @@ header{
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
+p {
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 11pt; /* Размер шрифта в пунктах */ 
+    text-align: center;
+   }
+ h1, h3{
+ 	text-align: center;
+ }
+ h3{
+ 	color: blue;
+ 	font-size: 20pt;
+ }
 .logo{
 	height: 100%;
 	width: 15%;
@@ -30,6 +43,7 @@ header{
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
+
 .Box_L{
 	height: 750px;
 	width: 30%;
