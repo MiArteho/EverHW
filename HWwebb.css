@@ -1,0 +1,80 @@
+body{
+	margin: 0;
+}
+header{
+	height: 150px;
+	width: 100%;
+	background-image: url(./images/cloud.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.logo{
+	height: 100%;
+	width: 15%;
+	background-image: url(./images/loggo.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	float: left;
+}
+.Name_Company{
+	height: 100%;
+	width: 85%;
+	background: pink;
+	float: left;
+	opacity: 0.8;
+}
+.content{
+	height: 750px;
+	width: 100%;
+	background-image: url(./images/contt.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.Box_L{
+	height: 750px;
+	width: 30%;
+	background-image: url(./images/ava.jpg);
+	background-size: 100%;
+	background-repeat: repeat-y;
+}
+.Box_R{
+	height: 750px;
+	width: 70%;
+	background: yellow;
+	opacity: 0.8;
+}
+.Box_L, .Box_R{
+	float:left;
+}
+.Box_NameS{
+	height: 150px;
+	width: 95%;
+	margin: 10px auto;
+	background: green;
+}
+.Box_Discr{
+	height: 570px;
+	width: 90%;
+	margin: 10px auto;
+	background: green;
+}
+.Box_Abo{
+	height: 570px;
+	width: 45%;
+	background: grey;
+	float: left;
+}
+.Box_Rep{
+	height: 570px;
+	width: 45%;
+	background: red;
+	float: right;
+}
+
+.foo{
+	height: 300px;
+	width: 100%;
+	background-image: url(./images/foo.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
