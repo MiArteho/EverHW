@@ -1,0 +1,12 @@
+table{
+	border: 1px solid black;
+	background: rgb(250, 128, 114);
+	width: 140px;
+}
+/* Не работает фрагмент, как сделать чтобы заработал?*/
+td rowspan{
+	width: 20px;
+}
+tr .mtable{
+	border: 1px solid black;
+}
