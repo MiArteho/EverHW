@@ -1,0 +1,14 @@
+table, td, tr{
+	border: 1px solid black;
+	text-align: center;
+	margin: auto;
+	padding: 5px;
+}
+caption{
+	caption-side: bottom;
+}
+img{
+	width: 250px;
+	height: 200px;
+	background-size: 100%;
+}
